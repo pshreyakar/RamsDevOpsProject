@@ -15,6 +15,7 @@ Finally Able to Integrate Github and Jenkins and Trigger Jobs automatically
 24thDec Changes-3
 Hello World
 Hello World 2
+What is happending?
 # Simple PHP Website
 
 I put together this project while introducing a friend of mine to PHP. I decided to clean it up a bit and put it on Github so anyone new to PHP can have a taste of a very simple and minimal website built with PHP.
