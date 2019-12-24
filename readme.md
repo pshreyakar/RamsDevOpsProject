@@ -1,21 +1,3 @@
-
-RamsDevOpsProject Changes
-RamsDevOpsProject Changes - 2 "Hello World"
-RamsDevOpsProject Changes - 3 "Hello World"
-RamsDevopsProject Changes - 4 "Hello World"
-RamsDevopsProject Changes - 5 "Hello World"
-Sixth Changes
-7th Changes
-8th Changes
-9th Changes
-Finally Able to Integrate Github and Jenkins and Trigger Jobs automatically
-1223-Changes
-24thDec Changes
-24thDec Changes-2
-24thDec Changes-3
-Hello World
-Hello World 2
-What is happending?
 # Simple PHP Website
 
 I put together this project while introducing a friend of mine to PHP. I decided to clean it up a bit and put it on Github so anyone new to PHP can have a taste of a very simple and minimal website built with PHP.
