@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Rams PHP Website for DevOps Project',
         'nav_menu' => [
             '' => 'Home',
             'content/about-us.php' => 'About Us',
