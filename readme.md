@@ -20,5 +20,5 @@ If you are a beginner and would like me to explain something in the code, or if 
 ## Lisence
 
 -- Edureka@Master Changes to Readme file
-
+-- i-MAC - Title changes in Config file
 MIT
